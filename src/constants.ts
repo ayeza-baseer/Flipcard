@@ -1,0 +1,1 @@
+export const FETCH_USER_DATA_URL= "https://random-data-api.com/api/users/random_user?size=10"
